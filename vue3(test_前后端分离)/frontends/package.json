@@ -1,0 +1,18 @@
+{
+  "name": "frontends",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^1.1.2",
+    "element-plus": "^2.2.18",
+    "vue": "^3.0.4",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
